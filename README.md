@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Asad Mehmood</h1>
 <h3 align="center">As a passionate Bachelor of Computer Science student at University of Engineering & Technology Lahore Pakistan, I have cultivated a strong foundation in problem-solving and software development. My academic journey has fueled a genuine passion for exploring the realms of machine learning and computer vision.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
